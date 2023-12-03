@@ -1,1 +1,1 @@
-# TribuFu
+# Tribufu
