@@ -1,1 +1,1 @@
-# Tribufu
+./profile/README.md
