@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Tribufu Logo" src="https://cdn.tribufu.com/images/tribufu.svg" width="20%">
+    <img alt="Tribufu Logo" src="https://r2.tribufu.com/images/tribufu.svg" width="20%">
 
 [Website][Website] | [Status][Status] | [Maven][Maven] | [Discord][Discord]
 
